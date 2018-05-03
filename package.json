@@ -15,7 +15,7 @@
     "filebeat",
     "transport"
   ],
-  "author": "iT1000s",
+  "author": "1000s",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShenYiQian/zipkin-transport-file/issues"
