@@ -1,6 +1,6 @@
 {
   "name": "zipkin-transport-file",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Transports Zipkin trace data via file",
   "main": "lib/index.js",
   "scripts": {
